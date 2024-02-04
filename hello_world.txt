@@ -1,1 +1,2 @@
-Hello there. Days are long, but decades are short.
+Hello there. The days are long, but decades are short.
+This is how I editted.
